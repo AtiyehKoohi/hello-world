@@ -1,0 +1,6 @@
+980313  -->  should be updated
+980319  -->  add sqlite tables and try to add dynamic radio buttons
+980322  -->  add models and try to save pictures
+980330  -->  retrofit
+13980402 --> get activities and show in spinner
+13980403 --> get forms
